@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi LGU 👋
 
 <!--
 **Lgu-food0206/Lgu-food0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
